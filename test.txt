@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 brand b - first line
+=======
+brand a - first line
+>>>>>>> 2c9faa26acdec9b39b7680e5626a6d056ba94589
